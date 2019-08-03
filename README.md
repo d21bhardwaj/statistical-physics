@@ -1,2 +1,2 @@
-# statistical-physics
+# Statistical Physics
 For questions on statistical mechanics
